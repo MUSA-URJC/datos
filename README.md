@@ -169,7 +169,11 @@ Ideal si **no estás familiarizado con Git o no quieres usar la línea de comand
 ---
 
 ### 💻 Opción 2: Usando Git y la terminal (para usuarios con experiencia)
-
+1. Haz un fork del repositorio.
+2. Crea una rama con tu feature: `git checkout -b feature/nueva-seccion`.
+3. Haz commit de tus cambios: `git commit -m 'Agrega nuevo dataset de...'`
+4. Sube la rama: `git push origin feature/nueva-seccion`
+5. Abre un Pull Request.
 
 ---
 
