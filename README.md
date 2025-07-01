@@ -10,30 +10,27 @@ Actualmente, el repositorio está dividido en las siguientes secciones:
 
 Contiene conjuntos de datos relacionados con partidos, eventos y estadísticas del mundo del fútbol.
 
+- [**Statsbomb Open Data**](https://github.com/statsbomb/open-data/tree/master)  
+    Colección abierta de datos de eventos de partidos de Statsbomb.
+  
 - [**Soccer Match Event Dataset**](/Fútbol/Soccer%20match%20event%20dataset/)  
   Dataset de referencia recopilado por Pappalardo *et al.* (2019). Incluye eventos detallados como pases, tiros, goles, etc.
+
+- [**FBREF LaLiga Stats**](https://fbref.com/en/comps/12/stats/La-Liga-Stats)  
+  Estadísticas detalladas de LaLiga.
 
 - [**Data World**](/Fútbol/Data%20World/)  
   Conjuntos de datos extraídos de la plataforma [data.world](https://data.world), incluyendo estadísticas de ligas y torneos.
 
-- [**Otros**](/Fútbol/)  
-  Se podrán encontrar enlaces a otros recursos y datos no alojados directamente en el repositorio.
+- [**Football-Data.co.uk**](https://www.football-data.co.uk/)  
+  Datos históricos y actuales de ligas europeas.
 
-  - [**Statsbomb Open Data**](https://github.com/statsbomb/open-data/tree/master)  
-    Colección abierta de datos de eventos de partidos de Statsbomb.
+- [**football.db**](https://github.com/openfootball)  
+  Repositorio de datasets de fútbol en formato YAML.
 
-  - [**FBREF LaLiga Stats**](https://fbref.com/en/comps/12/stats/La-Liga-Stats)  
-    Estadísticas detalladas de LaLiga. 
-
-  - [**Football-Data.co.uk**](https://www.football-data.co.uk/)  
-    Datos históricos y actuales de ligas europeas.
-
-  - [**football.db**](https://github.com/openfootball)  
-    Repositorio de datasets de fútbol en formato YAML.
-
-  - [**Kaggle**](https://www.kaggle.com/)  
-    Conjunto amplio de datasets. Algunos destacados:
-    - [European Soccer Database](https://www.kaggle.com/datasets/hugomathien/soccer/data)
+- [**Kaggle**](https://www.kaggle.com/)  
+  Conjunto amplio de datasets. Algunos destacados:
+  - [European Soccer Database](https://www.kaggle.com/datasets/hugomathien/soccer/data)
 
 
 ### [🏀 Baloncesto](/Baloncesto/)
@@ -42,27 +39,25 @@ Datos enfocados en la NBA y otros aspectos del baloncesto profesional.
 
 - [**FiveThirtyEight**](/Baloncesto/fivethirtyeight/)  
   Colecciones de datos ligados a reportajes periodísticos, incluyendo métricas avanzadas, ratings y predicciones.
-
-- [**Otros**](/Baloncesto/)  
-  Incluye otros enlaces y recursos no alojados directamente en el repositorio.
-  - [**NBA Stats**](https://www.nba.com/stats/)  
+  
+- [**NBA Stats**](https://www.nba.com/stats/)  
     Estadísticas oficiales de la NBA.
 
-  - [**Basketball Reference**](https://www.basketball-reference.com/)  
+- [**Basketball Reference**](https://www.basketball-reference.com/)  
     Gran base de datos histórica.
 
-  - [**College Basketball Reference**](https://www.sports-reference.com/cbb/)  
+- [**College Basketball Reference**](https://www.sports-reference.com/cbb/)  
     Datos históricos del baloncesto universitario estadounidense.
 
-  - [**College Basketball Data**](https://collegebasketballdata.com/)  
+- [**College Basketball Data**](https://collegebasketballdata.com/)  
     Datos universitarios accesibles mediante API.
 
-  - [**Kaggle**](https://www.kaggle.com/)  
-    Algunos datasets recomendados:
-    - [NBA database](https://www.kaggle.com/datasets/wyattowalsh/basketball)
-    - [NBA Players stats since 1950](https://www.kaggle.com/datasets/drgilermo/nba-players-stats)
-    - [College Basketball Dataset](https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset)
-    - [Men's Professional Basketball](https://www.kaggle.com/datasets/open-source-sports/mens-professional-basketball)
+- [**Kaggle**](https://www.kaggle.com/)  
+  Algunos datasets recomendados:
+  - [NBA database](https://www.kaggle.com/datasets/wyattowalsh/basketball)
+  - [NBA Players stats since 1950](https://www.kaggle.com/datasets/drgilermo/nba-players-stats)
+  - [College Basketball Dataset](https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset)
+  - [Men's Professional Basketball](https://www.kaggle.com/datasets/open-source-sports/mens-professional-basketball)
 
 ### [🏈 Fútbol Americano](/Fútbol%20americano/)
 
@@ -89,7 +84,7 @@ Conjuntos de datos relacionados con la ATP, WTP y más.
 
 - [**GitHub de Jeff Sackmann**](https://github.com/JeffSackmann). La fuente más conocida y utilizada de datos en abierto de tenis, contiene datasets de la ATP, de la WTP, de Grand Slams y mucho más.
 
- - [**Tennis-Data.co.uk**](http://www.tennis-data.co.uk/alldata.php). Datos disponibles de cada temporada de ATP en su página  en formato CSV. 
+- [**Tennis-Data.co.uk**](http://www.tennis-data.co.uk/alldata.php). Datos disponibles de cada temporada de ATP en su página  en formato CSV. 
 
 
 ### [🏃 Atletismo](/Atletismo/)
