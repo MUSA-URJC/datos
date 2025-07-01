@@ -150,13 +150,26 @@ Este repositorio busca ser un recurso útil tanto para estudiantes como para pro
 
 ## 🚀 Contribuir
 
-Si deseas contribuir:
+Este repositorio está abierto a contribuciones. ¡Cualquier ayuda es bienvenida! Puedes agregar nuevos datasets, corregir errores o mejorar la documentación. Existen dos formas de hacerlo:
 
-1. Haz un fork del repositorio.
-2. Crea una rama con tu feature: `git checkout -b feature/nueva-seccion`.
-3. Haz commit de tus cambios: `git commit -m 'Agrega nuevo dataset de...'`
-4. Sube la rama: `git push origin feature/nueva-seccion`
-5. Abre un Pull Request.
+### ✅ Opción 1: Desde la página web de GitHub (sin usar Git)
+
+Ideal si **no estás familiarizado con Git o no quieres usar la línea de comandos**:
+
+1. En la parte superior derecha de esta página, haz clic en el botón **"Fork"**. Esto creará una copia del repositorio en tu cuenta de GitHub.
+2. En tu copia del repositorio, navega a la carpeta o archivo que quieras modificar o donde quieras agregar contenido.
+3. Haz clic en el botón **"Add file"** y luego en **"Create new file"** para crear un archivo nuevo, o haz clic en un archivo existente para editarlo.
+4. Realiza los cambios necesarios (puedes escribir directamente en el navegador).
+5. En la parte inferior de la página, escribe un mensaje breve describiendo tu cambio en el campo **"Commit changes"**.
+6. Asegúrate de marcar la opción **"Create a new branch for this commit and start a pull request"**.
+7. Finalmente, haz clic en **"Propose changes"** y luego en **"Create pull request"**.
+
+> GitHub te guiará en el proceso para enviar tu propuesta (pull request). Nosotros revisaremos tus cambios y, si todo está bien, los integraremos al repositorio original.
+
+---
+
+### 💻 Opción 2: Usando Git y la terminal (para usuarios con experiencia)
+
 
 ---
 
